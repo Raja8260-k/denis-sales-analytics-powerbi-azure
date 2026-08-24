@@ -1,0 +1,37 @@
+[
+ {
+  "Country": "Czech republic",
+  "Town": "Prague",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Prague"
+ },
+ {
+  "Country": "Denmark",
+  "Town": "Copenhagen",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Copenhagen"
+ },
+ {
+  "Country": "Germany",
+  "Town": "Frankfurt",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Frankfurt"
+ },
+ {
+  "Country": "Germany",
+  "Town": "Berlin",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Berlin"
+ },
+ {
+  "Country": "Germany",
+  "Town": "Dresden",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Dresden"
+ },
+ {
+  "Country": "Czech republic",
+  "Town": "Brno",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Brno"
+ },
+ {
+  "Country": "Czech republic",
+  "Town": "Ostrava",
+  "Wikipedia": "https:\/\/en.wikipedia.org\/wiki\/Ostrava"
+ }
+]
